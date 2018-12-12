@@ -1,0 +1,20 @@
+2018-03-25 09:15:47,436 - TestSuite - INFO - 测试完成，正在生成测试报告
+2018-03-25 09:15:47,437 - TestSuite - INFO - 已找到TestSuite文件，开始分析测试集...
+2018-03-25 09:15:47,445 - TestSuite - INFO - ******************************
+2018-03-25 09:15:47,445 - TestSuite - INFO - 执行 userregister 测试场景
+2018-03-25 09:15:47,445 - TestSuite - INFO - 已找到 D:\ecshop\data\userregister.xlsx 测试用例，现在开始读取该用例
+2018-03-25 09:15:47,454 - TestSuite - INFO - 正在启动浏览器
+2018-03-25 09:15:54,569 - UserRegiste - INFO - 输入用户名:liuerbao1234.
+2018-03-25 09:15:54,688 - UserRegiste - INFO - 输入email:liuerbao1234@qq.com.
+2018-03-25 09:15:54,853 - UserRegiste - INFO - 输入密码:hzdl0905.
+2018-03-25 09:15:55,040 - UserRegiste - INFO - 输入确认密码:hzdl0905.
+2018-03-25 09:16:03,251 - UserRegiste - INFO - 点击注册按钮
+2018-03-25 09:16:11,490 - MainPage - INFO - 退出测试系统
+2018-03-25 09:16:15,024 - TestSuite - INFO - ******************************
+2018-03-25 09:16:15,025 - TestSuite - INFO - 执行 login 测试场景
+2018-03-25 09:16:15,026 - TestSuite - INFO - 已找到 D:\ecshop\data\login.xlsx 测试用例，现在开始读取该用例
+2018-03-25 09:16:15,038 - TestSuite - INFO - 正在启动浏览器
+2018-03-25 09:16:23,352 - LoginPage - INFO - 输入用户名:hzdl00001.
+2018-03-25 09:16:23,500 - LoginPage - INFO - 输入密码:hzdl0905.
+2018-03-25 09:16:23,687 - LoginPage - INFO - 点击登陆按钮
+2018-03-25 09:16:31,887 - MainPage - INFO - 退出测试系统

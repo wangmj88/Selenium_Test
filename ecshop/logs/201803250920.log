@@ -1,0 +1,11 @@
+2018-03-25 09:20:42,837 - TestSuite - INFO - 测试完成，正在生成测试报告
+2018-03-25 09:20:42,838 - TestSuite - INFO - 已找到TestSuite文件，开始分析测试集...
+2018-03-25 09:20:42,852 - TestSuite - INFO - userregister 场景无须测试
+2018-03-25 09:20:42,852 - TestSuite - INFO - ******************************
+2018-03-25 09:20:42,853 - TestSuite - INFO - 执行 login 测试场景
+2018-03-25 09:20:42,853 - TestSuite - INFO - 已找到 D:\ecshop\data\login.xlsx 测试用例，现在开始读取该用例
+2018-03-25 09:20:42,863 - TestSuite - INFO - 正在启动浏览器
+2018-03-25 09:20:48,970 - LoginPage - INFO - 输入用户名:hzdl00001.
+2018-03-25 09:20:49,148 - LoginPage - INFO - 输入密码:hzdl0905.
+2018-03-25 09:20:49,402 - LoginPage - INFO - 点击登陆按钮
+2018-03-25 09:20:57,658 - MainPage - INFO - 退出测试系统

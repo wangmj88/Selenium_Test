@@ -1,0 +1,97 @@
+1521900459455	geckodriver	INFO	geckodriver 0.19.1
+1521900459465	geckodriver	INFO	Listening on 127.0.0.1:54445
+1521900461565	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0GfHbcSr4T6Z"
+1521900462072	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1521900462307	Marionette	INFO	Enabled via --marionette
+1521900463663	Marionette	INFO	Listening on port 54451
+1521900463680	Marionette	INFO	Listening on port 54451
+1521900464791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521900485023	Marionette	INFO	New connections will no longer be accepted
+1521900485372	geckodriver	INFO	geckodriver 0.19.1
+1521900485392	geckodriver	INFO	Listening on 127.0.0.1:54565
+1521900487434	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pAvyOiI68Gri"
+1521900487975	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1521900488212	Marionette	INFO	Enabled via --marionette
+[Child 321876] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521900491374	Marionette	INFO	Listening on port 54573
+1521900491388	Marionette	INFO	Listening on port 54573
+1521900491551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521900491599	Marionette	DEBUG	Register listener.js for window 4294967297
+1521900491638	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521900491693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521900491694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521900491996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php"
+1521900492123	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php"
+1521900492341	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php"
+1521900492438	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php"
+1521900492439	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php"
+1521900492478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php"
+1521900492489	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php"
+1521900500588	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php"
+1521900500631	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php"
+1521900500632	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php"
+1521900500671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521900500683	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521900503694	Marionette	INFO	New connections will no longer be accepted
+1521900918946	geckodriver	INFO	geckodriver 0.19.1
+1521900918956	geckodriver	INFO	Listening on 127.0.0.1:54727
+1521900921026	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pEdJs21fGGMm"
+1521900921533	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1521900921782	Marionette	INFO	Enabled via --marionette
+[Child 325276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521900923431	Marionette	INFO	Listening on port 54733
+1521900923442	Marionette	INFO	Listening on port 54733
+1521900924229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521900924286	Marionette	DEBUG	Register listener.js for window 4294967297
+1521900924325	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521900924381	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521900924382	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521900924625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php?act=register"
+1521900924737	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php?act=register"
+1521900933235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php?act=register"
+1521900933336	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php?act=register"
+1521900933336	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php?act=register"
+1521900933375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php"
+1521900933379	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php"
+1521900941457	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php"
+1521900941499	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php"
+1521900941500	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php"
+1521900941541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521900941550	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521900944573	Marionette	INFO	New connections will no longer be accepted
+1521900944893	geckodriver	INFO	geckodriver 0.19.1
+1521900944904	geckodriver	INFO	Listening on 127.0.0.1:54854
+1521900946936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PMbZhmSiSxTL"
+1521900947430	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1521900947667	Marionette	INFO	Enabled via --marionette
+1521900948837	Marionette	INFO	Listening on port 54860
+1521900948848	Marionette	INFO	Listening on port 54860
+1521900948952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521900961044	Marionette	INFO	New connections will no longer be accepted
+1521901028468	geckodriver	INFO	geckodriver 0.19.1
+1521901028479	geckodriver	INFO	Listening on 127.0.0.1:54972
+1521901030564	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OOuTCLzh3ExG"
+1521901031094	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1521901031333	Marionette	INFO	Enabled via --marionette
+[Child 324820] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 324820] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521901034231	Marionette	INFO	Listening on port 54978
+1521901034240	Marionette	INFO	Listening on port 54978
+1521901034676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521901034722	Marionette	DEBUG	Register listener.js for window 4294967297
+1521901034766	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521901034819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521901034820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521901035051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php"
+1521901035229	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php"
+1521901035450	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php"
+1521901035563	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php"
+1521901035564	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php"
+1521901035622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php"
+1521901035628	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php"
+1521901043720	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.17.139/ecshop/user.php"
+1521901043763	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.17.139/ecshop/user.php"
+1521901043763	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.17.139/ecshop/user.php"
+1521901043800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521901043809	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.17.139/ecshop/user.php?act=logout"
+1521901046832	Marionette	INFO	New connections will no longer be accepted
